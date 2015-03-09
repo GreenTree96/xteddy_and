@@ -1,5 +1,3 @@
-xteddy
-
 xteddy in Android garden.
 
 What he said : http://webstaff.itn.liu.se/~stegu/xteddy/
