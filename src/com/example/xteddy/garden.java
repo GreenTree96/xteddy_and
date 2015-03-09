@@ -84,7 +84,7 @@ public class garden
 		garden_view = iflater.inflate(R.layout.in_garden_layout, null) ;
 		
 		params.x = 0;
-	    params.y = 0;
+	    	params.y = 0;
 	    
 	    garden_view.setLayerType(View.LAYER_TYPE_HARDWARE, null);
 		
