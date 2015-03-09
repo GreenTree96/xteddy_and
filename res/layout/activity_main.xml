@@ -1,0 +1,34 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.example.MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xteddy.MainActivity" 
+    android:background="#000000" >
+
+<ImageView
+    android:id="@+id/imageNew2"
+    android:layout_width="130dp"
+    android:layout_height="130dp"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_above="@+id/imageNew"
+    android:layout_marginBottom="33dp"
+    android:contentDescription="@null"
+    android:onClick="for_sleep"
+    android:scaleType="centerInside"
+    android:src="@drawable/bed_" />
+
+<ImageView 
+    android:id="@+id/imageNew"
+    android:layout_width="160dp"
+    android:layout_height="160dp"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="53dp"
+    android:contentDescription="@null"
+    android:onClick="stand_by_me"
+    android:scaleType="centerInside"
+    android:src="@drawable/forest_" />
+    
+</RelativeLayout>
