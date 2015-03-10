@@ -10,4 +10,4 @@ On some devices it may glitch when near screen edges. Tested on Samsung s5282. S
 
 =========================================================
 
-Video about : https://www.youtube.com/watch?v=GW4KEMpfAUE
+Movie : https://www.youtube.com/watch?v=GW4KEMpfAUE
